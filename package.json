@@ -1,0 +1,15 @@
+{
+  "name": "practical-intro",
+  "version": "1.0.0",
+  "description": "https://auth0.com/blog/typescript-practical-introduction/",
+  "main": "index.js",
+  "repository": "git@github.com:pepetopo/typescript-tutorials.git",
+  "author": "Elias Ylänen <elias.ylanen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
